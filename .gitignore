@@ -1,0 +1,6 @@
+*.csv
+*.csv
+*.zip
+*.png
+/__pycache__
+Val*.csv
